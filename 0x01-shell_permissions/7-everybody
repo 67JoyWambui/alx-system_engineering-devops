@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod ogo+x hello
+chmod g+x,o+rx hello
+
